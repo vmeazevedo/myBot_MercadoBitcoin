@@ -13,9 +13,11 @@ Bot de Telegram para monitoração de valores de criptos através da API do Merc
 Olá!
 Você pode realizar doações de qualquer banco para minha chave Pix Itaú: **865875c7-c1cc-4254-8585-7c1616dfbc59**
 
+
 ## Bot - myBot_MercadoBitcoin
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-Para utilizar o bot basta você mandar uma mensagem para o @my_mb_bot
+Para utilizar o bot basta você mandar uma mensagem para o **@my_mb_bot**
+
 
 ## Comandos (v0.1) #
 
