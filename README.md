@@ -4,7 +4,7 @@
 # myBot_MercadoBitcoin
 Bot de Telegram para monitoração de valores de criptos através da API do Mercado Bitcoin.
    
-![Supported Python Versions](https://img.shields.io/pypi/pyversions/rich/10.11.0) [![Twitter Follow](https://img.shields.io/twitter/follow/vmeazevedo.svg?style=social)](https://twitter.com/vmeazevedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius_Azevedo%20-blue)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vmeazevedo.svg?style=social)](https://twitter.com/vmeazevedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius_Azevedo%20-blue)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
 
 ![Star](https://img.shields.io/github/stars/vmeazevedo/myBot_MercadoBitcoin?style=social)
 ![Fork](https://img.shields.io/github/forks/vmeazevedo/myBot_MercadoBitcoin?label=Fork&style=social)
