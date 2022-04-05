@@ -16,7 +16,8 @@ Você pode realizar doações de qualquer banco para minha chave Pix Itaú: **86
 
 ## Bot - myBot_MercadoBitcoin
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-Para utilizar o bot basta você mandar uma mensagem para o **@my_mb_bot**
+
+Para utilizar o bot basta você mandar uma mensagem para o: **@my_mb_bot**
 
 
 ## Comandos (v0.1) #
