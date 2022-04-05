@@ -1,6 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/40063504/160647493-057abc2c-12a3-4b25-91d5-20484834bd85.svg)
 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 
 # myBot_MercadoBitcoin
 Bot de Telegram para monitoração de valores de criptos através da API do Mercado Bitcoin.
@@ -9,13 +8,16 @@ Bot de Telegram para monitoração de valores de criptos através da API do Merc
 
 ![Star](https://img.shields.io/github/stars/vmeazevedo/myBot_MercadoBitcoin?style=social)
 ![Fork](https://img.shields.io/github/forks/vmeazevedo/myBot_MercadoBitcoin?label=Fork&style=social)
-   
+
 ## Apoie esse projeto! 💵💵
 Olá!
 Você pode realizar doações de qualquer banco para minha chave Pix Itaú: **865875c7-c1cc-4254-8585-7c1616dfbc59**
 
+## Bot
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+Para utilizar o bot basta você mandar uma mensagem para o @my_mb_bot
 
-### Comandos (v0.1) #
+## Comandos (v0.1) #
 
 | Comando | Descrição |
 | ------- | --------- |
