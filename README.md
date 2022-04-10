@@ -21,4 +21,5 @@ Para utilizar o bot basta você mandar uma mensagem para o: **@my_mb_bot**
 | `/opcao1` | Retorna os valores atuais de uma criptomoeda |
 | `/opcao2` | Retorna o diário de negociações do dia anterior de uma criptomoeda |
 | `/opcao3` | Retorna valor da conversão do Dólar e Euro para Real Brasileiro |
+| `/opcao4` | Retorna valor da conversão de um grupo de moedas e criptos |
 | `contato` | Retorna o contato do desenvolvedor |
